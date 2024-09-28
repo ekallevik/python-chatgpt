@@ -31,6 +31,7 @@ HOW TO USE
 2. Add your API key to your environment
     - mac: export OPENAI_API_KEY="your_api_key_here"
     - windows: setx OPENAI_API_KEY "your_api_key_here"
-3. Run the script
+3. Run 'pip install openai'
+4. Run the script
 """
 
